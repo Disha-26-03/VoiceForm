@@ -1,0 +1,18 @@
+# Dependencies
+node_modules
+
+# Environment — KABHI UPLOAD MAT KARO
+.env
+.env.local
+.env.*
+
+# Data folder — Excel file local rahegi
+data/
+*.xlsx
+
+# Logs
+logs
+*.log
+
+# OS
+.DS_Store
